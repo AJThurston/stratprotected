@@ -211,7 +211,3 @@ sample.vet <- stratified(population,
                          )
 )
 table(sample.vet$vet)
-
-
-
-
