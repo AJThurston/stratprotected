@@ -45,5 +45,8 @@ Note on veteran status: this proportion is on a steep decline from 2015-2045 and
       1. Veteran Status (vet)  
             0 = Non-Veteran  
             1 = Veteran  
+### Use
 You do not need all the demographic variables in your population dataset in order to run the syntax, just run the portions that are relevant for your comparsions.  A seperate sample dataset will be generated from each comparison and will retain all other data in your population dataset.
+
+An example population dataset of randomly, evenly distributed demographic variables is provided in the Master branch.
 
